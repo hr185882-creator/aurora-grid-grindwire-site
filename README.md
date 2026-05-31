@@ -1,4 +1,9 @@
 # aurora-grid-grindwire-site
+
+Live site: https://hr185882-creator.github.io/aurora-grid-grindwire-site/
+
+Forecast Portfolio: https://hr185882-creator.github.io/aurora-grid-grindwire-site/#portfolio
+
 Premium decision-intelligence website for AURORA GRID / GrindWire: services, forecast audits, source-packet discipline, live tests, and Hall of Record candidates.
 
 AURORA GRID / GrindWire
