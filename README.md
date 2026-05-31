@@ -10,7 +10,7 @@ AURORA GRID / GrindWire
 
 Decision intelligence for structural turning points.
 
-GrindWire is the public brand. AURORA GRID is the decision-intelligence operating system for converting signals, evidence, pressure points, and structural shifts into action-ready analysis.
+AURORA GRID / GrindWire turns signals, evidence, pressure points, and structural shifts into decision-ready analysis.
 
 The site presents the framework, service offers, forecast portfolio, live-test structure, forecast audit discipline, and Hall of Record candidates.
 
