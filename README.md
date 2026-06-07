@@ -4,6 +4,8 @@ Live site: https://hr185882-creator.github.io/aurora-grid-grindwire-site/
 
 Products: https://hr185882-creator.github.io/aurora-grid-grindwire-site/#products
 
+Checkout / product intake: https://hr185882-creator.github.io/aurora-grid-grindwire-site/checkout.html
+
 Forecast Portfolio: https://hr185882-creator.github.io/aurora-grid-grindwire-site/#portfolio
 
 Premium decision-intelligence website for AURORA GRID / GrindWire: productized decision briefs, source audits, constraint forecasts, red-team attacks, forecast audits, live watches, custom intelligence-system buildouts, and advisory retainers.
@@ -14,7 +16,7 @@ Decision intelligence for structural turning points.
 
 AURORA GRID / GrindWire turns signals, evidence, pressure points, and structural shifts into decision-ready analysis.
 
-The site presents the framework, premium product ladder, forecast portfolio, live-test structure, forecast audit discipline, and Hall of Record candidates.
+The site presents the framework, premium product ladder, checkout/product-intake layer, forecast portfolio, live-test structure, forecast audit discipline, and Hall of Record candidates.
 
 ## Purpose
 
@@ -54,6 +56,14 @@ Learning products:
 - Forecasting & Source Discipline Cohort — $999-$1,500
 
 Pricing posture: the main conversion zone is $299-$499. The $99 offer is an entry product only. Buildouts and retainers are premium products.
+
+## Checkout Layer
+
+The repository now includes `checkout.html`.
+
+Current checkout mode: product-specific intake. Each product has product-specific WhatsApp and email request links. This avoids fake payment URLs while still giving buyers a direct route to scope, book, and purchase.
+
+Payment-provider setup still required for real card checkout. Once Stripe, Gumroad, Lemon Squeezy, Calendly, or another provider is connected, replace the current intake links with real product checkout URLs.
 
 ## Framework
 
@@ -115,15 +125,18 @@ vercel deploy --prod
 
 For GitHub Pages, serve the project from the repository root or configured static output directory.
 
+The build script copies both `index.html` and `checkout.html` into `dist/`.
+
 ## Status
 
-Launch-ready static site with premium product ladder added.
+Launch-ready static site with premium product ladder and product-specific checkout/intake page added.
 
 Pending production tasks:
 
+- Connect Stripe, Gumroad, Lemon Squeezy, Calendly, or another payment/scheduler provider
+- Replace product-intake links with real checkout or booking URLs
 - Connect the contact form to a real form backend, payment flow, or scheduler
 - Attach timestamp screenshots for forecast records
 - Attach official outcome-source packets
 - Connect custom domain if needed
-- Add payment links or checkout pages for entry and core products
 - Add delivery-time expectations and scope boundaries per product
