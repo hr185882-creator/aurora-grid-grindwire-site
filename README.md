@@ -2,25 +2,60 @@
 
 Live site: https://hr185882-creator.github.io/aurora-grid-grindwire-site/
 
+Products: https://hr185882-creator.github.io/aurora-grid-grindwire-site/#products
+
 Forecast Portfolio: https://hr185882-creator.github.io/aurora-grid-grindwire-site/#portfolio
 
-Premium decision-intelligence website for AURORA GRID / GrindWire: services, forecast audits, source-packet discipline, live tests, and Hall of Record candidates.
+Premium decision-intelligence website for AURORA GRID / GrindWire: productized decision briefs, source audits, constraint forecasts, red-team attacks, forecast audits, live watches, custom intelligence-system buildouts, and advisory retainers.
 
-AURORA GRID / GrindWire
+## AURORA GRID / GrindWire
 
 Decision intelligence for structural turning points.
 
 AURORA GRID / GrindWire turns signals, evidence, pressure points, and structural shifts into decision-ready analysis.
 
-The site presents the framework, service offers, forecast portfolio, live-test structure, forecast audit discipline, and Hall of Record candidates.
+The site presents the framework, premium product ladder, forecast portfolio, live-test structure, forecast audit discipline, and Hall of Record candidates.
 
-Purpose
+## Purpose
 
-This website is a sales and credibility site for AURORA GRID services.
+This website is a sales and credibility site for AURORA GRID products and advisory services.
 
 It is built for founders, analysts, creators, researchers, traders, sports bettors, consultants, and decision-makers who need structured judgment under uncertainty.
 
-Framework
+## Product Ladder
+
+Entry products:
+
+- K-ALIGN Claim Check — $99
+- AURORA Quick Decision Memo — $149
+- BLACKGLASS Thesis Attack — $249
+
+Core decision products:
+
+- AURORA GRID Decision Brief — $299
+- CRF Constraint Forecast — $349
+- Forecast & Scenario Analysis — $499
+
+Premium proof and system products:
+
+- Forecast Portfolio Audit — $750
+- Decision-System Buildout — $1,500-$3,500
+- Live Situation Watch — $1,000-$2,500/month
+
+High-ticket advisory:
+
+- AURORA GRID Advisory Retainer — $3,000-$7,500/month
+- Custom Intelligence OS Setup — $5,000-$15,000
+
+Learning products:
+
+- AURORA Template Pack — $49-$99
+- AURORA GRID Field Course — $299-$499
+- Forecasting & Source Discipline Cohort — $999-$1,500
+
+Pricing posture: the main conversion zone is $299-$499. The $99 offer is an entry product only. Buildouts and retainers are premium products.
+
+## Framework
 
 AURORA GRID uses several layers:
 
@@ -39,7 +74,7 @@ Outputs are designed to answer:
 - What would prove it wrong?
 - What is the action state?
 
-Forecast Verification Standard
+## Forecast Verification Standard
 
 No forecast is claimed as fully verified unless both of the following are attached:
 
@@ -54,11 +89,9 @@ Until both are present, cases remain labeled as:
 - Medium / Needs Narrowing
 - Live Test
 
-The Poland Javelins case is featured in the Hall of Record as a strong candidate, but remains labeled:
+The Poland Javelins case is featured in the Hall of Record as an audit-packet-attached Hall of Record candidate, with timestamp screenshot received and official DSCA outcome source linked. Keep claims bounded to the documented match.
 
-Pending timestamp screenshot attachment.
-
-Contact
+## Contact
 
 Primary fast-contact path:
 
@@ -70,9 +103,9 @@ Grindwireproject@gmail.com
 
 Suggested subject:
 
-AURORA GRID Brief Request
+AURORA GRID Product Request
 
-Deployment
+## Deployment
 
 This is a static website project.
 
@@ -82,13 +115,15 @@ vercel deploy --prod
 
 For GitHub Pages, serve the project from the repository root or configured static output directory.
 
-Status
+## Status
 
-Launch-ready static site.
+Launch-ready static site with premium product ladder added.
 
 Pending production tasks:
 
-- Connect the contact form to a real form backend or scheduler
+- Connect the contact form to a real form backend, payment flow, or scheduler
 - Attach timestamp screenshots for forecast records
 - Attach official outcome-source packets
-- Connect custom domain if needed.
+- Connect custom domain if needed
+- Add payment links or checkout pages for entry and core products
+- Add delivery-time expectations and scope boundaries per product
